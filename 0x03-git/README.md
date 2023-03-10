@@ -1,1 +1,0 @@
-Iam learning bash scripting
